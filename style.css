@@ -85,6 +85,10 @@ a:active {
     text-align: center;
 }
 
+.green {
+    color: #69ba6d;
+}
+
 #content-header #logo {
     display: block;
     width: 250px;
@@ -123,11 +127,11 @@ a:active {
     font-style: normal;
     font-weight: normal;
 
+    src: url("fonts/icomoon.eot");
     src: url("fonts/icomoon.eot?#iefix") format("embedded-opentype"),
     url("fonts/icomoon.woff") format("woff"),
     url("fonts/icomoon.ttf") format("truetype"),
     url("fonts/icomoon.svg?#icomoon") format("svg");
-    src: url("fonts/icomoon.eot");
 }
 
 [class^="icon-"],
